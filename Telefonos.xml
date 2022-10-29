@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/prueb/Desktop/9no/Servicios Web/Practica5_A180128/Telefonos.xsl"?>
+<telefonos>
+	  <telefono>
+		  <marca>&#160;Samsung&#160;</marca>
+		  <modelo>&#160;Galaxy S22 Ultra 5G&#160;</modelo>
+          <ssdram>&#160;8 / 128 GB&#160;</ssdram>
+          <precio>&#160;$ 30,999&#160;</precio>
+      </telefono>
+	  <telefono>
+		  <marca>&#160;Apple&#160;</marca>
+		  <modelo>&#160;iPhone 14 Pro Max&#160;</modelo>
+          <ssdram>&#160;6 / 128 GB&#160;</ssdram>
+          <precio>&#160;$ 28,999&#160;</precio>
+      </telefono>
+	  <telefono>
+		  <marca>&#160;Xiaomi&#160;</marca>
+		  <modelo>&#160;12 Pro&#160;</modelo>
+          <ssdram>&#160;8 / 128 GB&#160;</ssdram>
+          <precio>&#160;$ 28,999&#160;</precio>
+      </telefono>
+      <telefono>
+        <marca>&#160;OPPO&#160;</marca>
+        <modelo>&#160;Find X5 Pro 5G&#160;</modelo>
+        <ssdram>&#160;12 / 256 GB&#160;</ssdram>
+        <precio>&#160;$ 19,999&#160;</precio>
+    </telefono>
+    <telefono>
+        <marca>&#160;Vivo&#160;</marca>
+        <modelo>&#160;X80 Pro&#160;</modelo>
+        <ssdram>&#160;8 / 256 GB&#160;</ssdram>
+        <precio>&#160;$ 33,999&#160;</precio>
+    </telefono>
+</telefonos>
